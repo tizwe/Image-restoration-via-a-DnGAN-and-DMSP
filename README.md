@@ -2,7 +2,7 @@
 This is the repository for the Code of my Bachelor Thesis. 
 It cointains:
 1. An example for a neural network from scratch
-2. A notebook where a DnGAN and DAE are trained for denoising and then as part of a deep mean shift prior ofr deblurring. 
+2. A notebook where a DnGAN and DAE are trained for denoising and then as part of a deep mean shift prior for deblurring. 
 
 
 
